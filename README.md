@@ -6,10 +6,10 @@
 * Seu objeto é por em prática os conhecimentos de Programação Orientada a Objetos, adquiridas no curso de Java Developer da DIGITAL INNOVATION ONE.
 * Neste projeto utilizo alguns princípios de modelagem UML e POO - Programação Orientada a Objetos.
 
-<h2>`Diagramação`</h2>
-<img src="https://github.com/Dhisting1/Sistema-de-Gerenciamento-de-Biblioteca/blob/main/docs/Diagramacao.png">
+<h2>Diagramação</h2>
+<img src="https://github.com/Dhisting1/Sistema-de-Gerenciamento-de-Biblioteca/blob/main/docs/diagrama%C3%A7%C3%A3o.png">
 
-<h2>`Funcionalidades`</h2>
+<h2>Funcionalidades</h2>
 
 * Cadastro de Livros, Autores, Funcionários, Usuários e Editoras.
 * Edição de Livros, Autores, Funcionários, Usuários e Editoras.
@@ -17,7 +17,7 @@
 * Pesquisa de Livros, Autores, Funcionários, Usuários e Editoras.
 * Listagem de Livros, Autores, Funcionários, Usuários e Editoras.
 
-<h2>`Tecnologias`</h2>
+<h2>Tecnologias</h2>
 
 * Java
 * Orientação a Objetos
